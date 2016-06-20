@@ -1,0 +1,172 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+}
+
+.corpoLogin {
+	text-align: center;
+}
+
+#logoEmpresa {
+	width: 200px;
+	margin-top: 15%;
+	margin-bottom: 50px;
+}
+
+.form-horizontal {
+	padding: 20px;
+	border: 1px solid #e6efee;
+	border-radius: 20px;
+	width: 500px;
+	margin-left: 30%;
+}
+
+#logoEmpresaCadastro {
+	width: 50px;
+	margin-top: -5px;
+}
+
+#opcaoNav:hover {
+	background-color: #f2f2f2;
+}
+
+#imgUser {
+	margin-top: -18px;
+	margin-bottom: -15px;
+}
+
+article {
+	width: 70%;
+	margin-left: 15%;
+	background-color: #fcfcfc;
+	height: 100%;
+	position: fixed;
+}
+
+#boxValoresVerm {
+	margin-left: 3%;
+	margin-top: 30px;
+	width: 30%;
+	height: 100px;
+	float: left;
+	color: #fff;
+	padding-top: 12px;
+	position: relative;
+	background-color: #fb5659;
+}
+
+#boxValoresAzul {
+	margin-left: 2%;
+	margin-top: 30px;
+	width: 30%;
+	height: 100px;
+	float: left;
+	color: #fff;
+	padding-top: 12px;
+	position: relative;
+	background-color: #6bc3ed;
+}
+
+#boxValoresVerde {
+	margin-left: 2%;
+	margin-top: 30px;
+	width: 30%;
+	height: 100px;
+	float: left;
+	color: #fff;
+	padding-top: 12px;
+	position: relative;
+	background-color: #00c7b7;
+}
+
+#imagemValores {
+	margin-top: 8px;
+	margin-left: 50px;
+}
+
+#tituloValores{
+	text-align: center;
+	width: 60%;
+	margin-top: 10px;
+	height: 50px;
+	padding-top: 5px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	float: right;
+	border-left: 1px solid #e6efee;
+}
+
+#subTituloValores {
+	font-size: 16px;
+	font-weight: 100;
+}
+
+.box-chartLigacoes {
+	width: 94%;
+	height: 50%;
+	float: left;
+	margin-left: 3%;
+	margin-top: 20px;
+	color: #2b2b2b;
+	background-color: #fff;
+	border: 1px solid #e6efee;
+}
+
+#barraTituloGrafico{
+	width: 100%;
+	height: 30px;
+	background-color: #e6efee;
+	padding-left: 20px;
+	line-height: 30px;
+	text-align: left;
+	font-weight: bold;
+	font-family: Verdana;
+	color: #313d3e;
+	float:left;
+	border-bottom: 1px solid #e6efee;
+	margin-bottom: 5px;
+}
+
+#GraficoLigacoes {
+	width: 90%;
+	height: 300px;
+	margin-left: 5%;
+}
+
+#btnNovoUser {
+	margin-left: 20%;
+}
+
+#tabelaUsers {
+	width: 60%;
+	margin-left: 20%;
+}
+
+#tabelaUsers a {
+	text-decoration: none;
+	color: #2b2b2b;
+}
+
+#modalConfirmacao {
+	text-align: center;
+}
+
+#envia {
+	/*margin-top: -55px;*/
+	margin-right: 20px;
+	/*float: right;*/
+}
+
+.formMercadoria {
+	width: 60%;
+	float: left;
+	margin-left: 20%;
+}
+
+.tableMercadorias {
+	width: 80%!important;
+	float: left;
+	margin-left: 10%;
+}
